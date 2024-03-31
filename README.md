@@ -1,6 +1,6 @@
 # my_bugs_and_CVE_collection
 
-Collection of my bugs and CVE, with PoC or writeup
+Collection of bugs and CVE, with PoC or writeup rewritten in assembly
 
 | Vulnerabilities/Bugs | writeup | PoC  |
 | -------------------- | ------- | ---- |
